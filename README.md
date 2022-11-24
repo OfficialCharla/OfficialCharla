@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1>Hi, I'm Charla! <br/><a href="https://github.com/OfficialCharla">Web Developer</a>, <a href="https://github.com/OfficialCharla">Risk Analyst</a>, <a href="https://github.com/OfficialCharla">Cybersecurity Enthusiast</a>, <a href="https://www.linkedin.com/in/musiqqueen/">Content Developer</a></h1>
+
 <!--
 **OfficialCharla/OfficialCharla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
